@@ -75,3 +75,7 @@
   line-height: 75px;
   font-size: 30px;
 }
+nav a {
+  padding: 2rem;
+  margin: 2rem;
+}
